@@ -7,3 +7,5 @@ sesi 2 : Looping
 sesi 3 : function, module, package
 
 sesi 4 : Numpy
+
+sesi 5 : Pandas
