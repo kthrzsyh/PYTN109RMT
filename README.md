@@ -9,3 +9,5 @@ sesi 3 : function, module, package
 sesi 4 : Numpy
 
 sesi 5 : Pandas
+
+sesi 6 : Data Cleaning with Pandas
