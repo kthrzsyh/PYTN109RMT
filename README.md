@@ -27,3 +27,5 @@ sesi 12 : Clasification I
 sesi 13 : Clasification II
 
 sesi 14 : Unsupervised Learning
+
+sesi 15 : Feature Engineering
